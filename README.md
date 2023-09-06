@@ -6,3 +6,4 @@ Free and open-source software list.
 3. October CMS - [GitHub](https://github.com/octobercms/october) · [Website](https://octobercms.com/)
 4. Pest - [GitHub](https://github.com/pestphp/pest) · [Website](https://pestphp.com/)
 5. Vite - [GitHub](https://github.com/vitejs/vite) · [Website](https://vitejs.dev/)
+6. Jest - [GitHub](https://github.com/jestjs/jest) · [Website](https://jestjs.io/)
