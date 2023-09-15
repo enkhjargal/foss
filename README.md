@@ -17,3 +17,4 @@ Explore my meticulously curated FOSS collection, your gateway to a world of exce
 |4|Pest|The elegant [PHP](https://github.com/php) testing framework.|[pestphp/pest](https://github.com/pestphp/pest)|[pestphp.com](https://pestphp.com/)|
 |5|Vite|Next Generation Frontend Tooling|[vitejs/vite](https://github.com/vitejs/vite)|[vitejs.dev](https://vitejs.dev/)|
 |6|Jest|Jest is a delightful JavaScript Testing Framework with a focus on simplicity.|[jestjs/jest](https://github.com/jestjs/jest)|[jestjs.io](https://jestjs.io/)|
+|7|Lunar|An open-source package that brings the power of modern headless e-commerce functionality to [Laravel](https://github.com/laravel/laravel).|[lunarphp/lunar](https://github.com/lunarphp/lunar)|[lunarphp.io](https://lunarphp.io/)|
