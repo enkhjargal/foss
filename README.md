@@ -21,3 +21,4 @@ Explore my meticulously curated FOSS collection, your gateway to a world of exce
 |8|OwnCloud|ownCloud is an open-source file sync, share and content collaboration software that lets teams work on data easily from anywhere, on any device.|[owncloud/core](https://github.com/owncloud/core)|[owncloud.com](https://owncloud.com/)|
 |9|Matomo|Take back control with Matomo – a powerful web analytics platform that gives you 100% data ownership.|[matomo-org/matomo](https://github.com/matomo-org/matomo)|[matomo.org](https://matomo.org/)|
 |10|Nginx|nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.|[nginx/nginx](https://github.com/nginx/nginx)|[nginx.org](https://nginx.org/)|
+|11|TensorFlow|Create production-grade machine learning models with TensorFlow|[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)|[tensorflow.org](https://www.tensorflow.org/)|
